@@ -1,4 +1,3 @@
-<img width="1909" height="828" alt="image" src="https://github.com/user-attachments/assets/907ee0e2-5aae-497b-8d90-2e45efe084f3" />COS30082 - Applied Machine Learning
 # Machine Learning Final Assignment (COS30082 – Applied Machine Learning)
 
 This project demonstrates a complete end-to-end machine learning workflow using Python and Jupyter Notebook.
